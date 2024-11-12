@@ -3,7 +3,7 @@
 I'm a Computer Engineering student at University of Guadalajara and this is my personal profile where I share my projects and learnings.
 
 # 💫 About Me:
-🔭 I’m currently working on:<br><br>Operating Systems memory and process management algorithms in Python<br>Web based service for delivery routes optimization<br><br>🌱 I’m currently learning:<br><br>Algorithms and Data Structures implementation in C++ and Python
+🔭 I’m currently working on:<br><br>- Operating Systems memory and process management algorithms in Python<br>- Web based service for delivery routes optimization<br><br>🌱 I’m currently learning:<br><br> - Algorithms and Data Structures implementation in C++ and Python
 
 
 
