@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jiquilpin
+# Hi there 👋, I'm Christian
 
 I'm a Computer Engineering student at University of Guadalajara and this is my personal profile where I share my projects and learnings.
 
