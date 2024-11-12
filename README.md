@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋, I'm Jiquilpin
+
+I'm a Computer Engineering student at University of Guadalajara and this is my personal profile where I share my projects and learnings.
 
 <!--
 **Christian0004/Christian0004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
